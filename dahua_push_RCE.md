@@ -17,7 +17,7 @@ X-Subject-Headerflag: ADAPT
         "configure": "xxx",
         "filePath": "xxx",
         "paramMap": {
-            "shellPath": "/bin/bash -c id>/opt/evoWpms/static/xxx.txt",
+            "shellPath": "/bin/bash -c 'id>/opt/evoWpms/static/xxx.txt'",
             "filePath": "xxx"
         },
         "requestIp": ""
